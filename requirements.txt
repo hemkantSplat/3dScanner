@@ -1,0 +1,7 @@
+customtkinter==5.2.1
+opencv_python_headless==4.8.1.78
+Pillow==9.0.1
+Pillow==10.1.0
+pyserial==3.5
+sonycam==0.1.0
+tkinter_webcam==1.0.9
